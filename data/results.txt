@@ -1,0 +1,5 @@
+Amar - Average:84.33 - Grade:B
+Bindu - Average:45.0 - Grade:F
+Chandu - Average:91.67 - Grade:A
+Dharani - Average:61.67 - Grade:C
+Esther - Average:30.0 - Grade:F

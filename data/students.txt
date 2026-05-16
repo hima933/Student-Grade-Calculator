@@ -1,0 +1,5 @@
+Amar,85,90,78
+Bindu,45,50,40
+Chandu,92,88,95
+Dharani,60,55,70
+Esther,30,25,35
