@@ -9,21 +9,20 @@ and outputs a grade. Results are saved to results.txt.
 - Handles file not found and invalid data errors
 
 ## Project Structure
-Grade Calculator
-   Data
-      Students.txt
-      results.txt
-    src
-       __init__.py
-       grades.py
-    main.py
-    readme.md
-
+Grade-Calculator/
+  ├── data/
+  │   ├── students.txt
+  │   └── results.txt
+  ├── src/
+  │   ├── __init__.py
+  │   └── grades.py
+  ├── main.py
+  ├── .gitignore
+  └── README.md
 ## How to run it
 
 1. Clone the repo
-   git clone 
-
+   git clone https://github.com/hima933/Student-Grade-Calculator
 2. Create virtual environment
    python -m venv myenv
    myenv\Scripts\activate --windows
